@@ -24,9 +24,9 @@
     "redux-thunk": "^2.4.2",
     "web-vitals": "^1.1.2"
   },
-  "devDependencies" : {
-    "@babel/plugin-proposal-private-property-in-object": ""
-},
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  },
   "scripts": {
     "start": "set PORT=4000 && react-scripts start",
     "build": "react-scripts build",
